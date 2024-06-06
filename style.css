@@ -1,0 +1,13 @@
+body
+{
+	font-family: "Calibri", self;
+	background-color: #606060;
+	text-align: center;
+}
+
+#game
+{
+	background-color: gray;
+	margin-left: auto;
+	margin-right: auto;
+}
