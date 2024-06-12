@@ -41,24 +41,16 @@ Pomysł na ten projekt zaczerpnąłem z internetu, gdzie były pokazane przykła
 
 Całość gry zrobiona za pomocą JavaScript.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Sterowanie
 
  * Strzałki - poruszanie
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## Contact
 
 Dawid Waszak - https://dawid-waszak.github.io
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
