@@ -34,7 +34,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## Zbout the project
+## About the project
 
 Game created in JavaScript.
 
