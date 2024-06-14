@@ -25,25 +25,22 @@
   <h3 align="center">The Square [HTML CSS JavaScript]</h3>
 
   <p align="center">
-    Gra zręcznościowa - unikaj nadlatujących obiektów i zbieraj żółte punkty. Zasady są proste, a gra wciągająca.
+    Simple arcade game - watch out for the falling squares and collect gold on the board! 
     <br />
     <br />
-    <a href="https://dawid-waszak.github.io/#projects">View Demo</a>
   </p>
 
   <img src="/images/TheSquare.png" alt="">
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## O Projekcie
+## Zbout the project
 
-Pomysł na ten projekt zaczerpnąłem z internetu, gdzie były pokazane przykładowe, proste gry jakie można zrobić.
+Game created in JavaScript.
 
-Całość gry zrobiona za pomocą JavaScript.
+## Controls
 
-## Sterowanie
-
- * Strzałki - poruszanie
+ * Arrows - moving
 
 <!-- LICENSE -->
 ## License
